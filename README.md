@@ -28,3 +28,7 @@ npm install react-chartjs-2 chart.js
 Para ejecutar el proyecto
 - en el directorio backend => ```python3 manage.py runserver```
 - en el directorio frontend => ```npm start```
+
+## Interfaz
+
+![image](/frontend/src/img/Interfaz.PNG)
